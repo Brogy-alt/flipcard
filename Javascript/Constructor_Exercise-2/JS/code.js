@@ -76,6 +76,15 @@
 // person1.email = "peter@gmail.com"
 // person1.display();
 
+// function addition(e){
+//     e.preventDefault();
+//     let numb1 = document.querySelector("#numb1").value;
+//     let numb2 = document.querySelector("#numb2").value;
+//     document.querySelector('#output').innerText = eval(`${numb1} + ${numb2}`);
+// }
+
+let btnAddition = document.querySelector('button');
+btnAddition.addEventListener('click')
 
 
 
