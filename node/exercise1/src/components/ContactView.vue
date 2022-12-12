@@ -17,8 +17,9 @@
     <div>
         <h2>Form</h2>
         <form action="">
-            <input type="text" placeholder="type here">
-            <input type="text" placeholder="type here">
+            Enter Name <input type="text" placeholder="type here">
+            Enter Surname <input type="text" placeholder="type here">
+            Enter Number if you a female <input type="text" placeholder="type here">
         </form>
         
     </div>
